@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sathishjacobthandhari
-- 👀 I’m interested in ... Nothing  
+- 👋 Hi, I’m @SathishThandhari
 - 🌱 I’m currently learning ... DataScience 
 - 📫 How to reach me ... Sathishjacobsmail@gmail.com  
 
